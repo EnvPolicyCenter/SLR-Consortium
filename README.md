@@ -30,13 +30,13 @@ This repository is a template for SLR Consortium members to replicate for data a
 
 ------------------------------------------------------------------------
 
-**Paper title:** TITLE
+**Paper title:** Climate Adaptation: Science is Not The Barrier
 
-**Authors:** AUTHOR NAMES
+**Authors:** Mark Lubell
 
-**Repository name:** GITHUB REPO NAME
+**Repository name:** SLR-Consortium
 
-**Description:** PAPER DESCRIPTION
+**Description:** Demonstrates that science is the least important barrier in climate adaptation
 
 **Repo Setup:**
 
